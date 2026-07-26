@@ -58,8 +58,8 @@ android {
             } else {
                 signingConfigs.getByName("debug")
             }
-            isMinifyEnabled = true
-            isShrinkResources = true
+            isMinifyEnabled = false
+            isShrinkResources = false
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
@@ -78,6 +78,3 @@ flutter {
     source = "../.."
 }
 
-dependencies {
-    implementation "com.google.android.play:core:1.13.1"
-}
