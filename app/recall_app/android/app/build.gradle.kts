@@ -77,3 +77,7 @@ kotlin {
 flutter {
     source = "../.."
 }
+
+dependencies {
+    implementation "com.google.android.play:core:1.13.1"
+}
