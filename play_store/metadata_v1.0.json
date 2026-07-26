@@ -1,0 +1,51 @@
+{
+  "package": "com.mualimx.recall",
+  "version": "1.0.0",
+  "versionCode": 1,
+  "developer": "Mualimx Apps",
+  "developer_email": "mail2mualimx@gmail.com",
+  "website": "https://mualimx.com",
+  "license": "Apache 2.0",
+  "notes": "Clean, fair, transparent, privat, offline. Halal build standard (internal only).",
+  "title": {
+    "de": "Recall: Karteikarten & Lernen",
+    "en": "Recall: Flashcards & Study",
+    "ar": "Recall: بطاقات الذاكرة والدراسة"
+  },
+  "short_desc": {
+    "de": "SM-2 Karteikarten. Klug lernen, 100% offline. Kein Anki-Konto nötig.",
+    "en": "SM-2 flashcards. Study smart, 100% offline. No Anki account needed.",
+    "ar": "بطاقات تعلم SM-2. دراسة ذكية، 100٪ غير متصل. لا حساب مطلوب."
+  },
+  "pricing": {
+    "app_price": "Free",
+    "contains_ads": false,
+    "in_app_purchases": true,
+    "subscription": false,
+    "iap_product_id": "premium_lifetime",
+    "iap_name": "Recall Premium",
+    "iap_price_eur": "4.99",
+    "iap_type": "non-consumable",
+    "iap_description_de": "Einmaliger Kauf. Lebenslange Updates. Alle Premium-Features freischalten.",
+    "iap_description_en": "One-time purchase. Lifetime updates. Unlock all premium features.",
+    "iap_description_ar": "شراء لمرة واحدة. تحديثات مدى الحياة. فتح جميع الميزات المميزة."
+  },
+  "content_rating": {
+    "rating": "PEGI 3",
+    "esrb": "E",
+    "usk": "0",
+    "everyone": true,
+    "violence": false,
+    "sexual_content": false,
+    "language": false,
+    "controlled_substances": false,
+    "user_generated_content": false
+  },
+  "distribution": {
+    "countries": "all_available",
+    "designed_for_families": false,
+    "target_audience": "all_age_groups"
+  },
+  "privacy_policy_url": "https://mualimx.com/privacy/recall.html",
+  "source_repo_url": "https://github.com/mualimx/recall"
+}
