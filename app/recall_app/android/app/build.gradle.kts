@@ -30,7 +30,7 @@ android {
 
     defaultConfig {
         applicationId = "com.mualimx.recall_app"
-        minSdk = 23
+minSdk = 23
         targetSdk = 36
         versionCode = 1
         versionName = "1.0.0"
